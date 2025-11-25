@@ -1,6 +1,30 @@
-# Alura-Challenge-02
+#-Año: 
+--------------------------------------------------------------------------------------
+2024
+
+#-Objetivo/Descripción: 
+--------------------------------------------------------------------------------------
+Desarrollo de una aplicación funcional para la conversión de
+divisas, enfocada en la interacción de la interfaz de usuario con la lógica de
+programación.
+--------------------------------------------------------------------------------------
+#-Lenguajes de programación: 
+--------------------------------------------------------------------------------------
+Java, HTML, CSS.
+
+-Metodología seguida:
+--------------------------------------------------------------------------------------
+Diseño de la interfaz de usuario. Implementación de la lógica de
+conversión en Java. Manejo de excepciones para garantizar la estabilidad.
+
+-Resultados: 
+--------------------------------------------------------------------------------------
+Creación de una herramienta con capacidad de conversión bidireccional de
+divisas, con interfaz usable y validación de inputs.
 Conversor 3 en 1, de Divisas, Temperaturas y Unidades de longitud
 
+# Descripcion:
+--------------------------------------------------------------------------------------
 Tenemos como objetivo un conversor multiopcion, en mi caso opte por un conversor de monedas, de temperatura y de unidades de longitud
 
 1.- Pantalla de selección: Tenemos una pantalla sencilla para seleccionar el programa con el que deseamos trabajar y un boton de salir en caso de que no se desee ingresar a ninguna de las opciones desplegadas.
