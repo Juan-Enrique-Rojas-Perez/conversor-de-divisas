@@ -4,10 +4,11 @@
 
 # -Objetivo/Descripción: 
 --------------------------------------------------------------------------------------
+
 Desarrollo de una aplicación funcional para la conversión de
 divisas, enfocada en la interacción de la interfaz de usuario con la lógica de
 programación.
---------------------------------------------------------------------------------------
+
 # -Lenguajes de programación: 
 --------------------------------------------------------------------------------------
 Java, HTML, CSS.
